@@ -1,4 +1,4 @@
-# Dog Breed Image Classifier
+# Dog Image Classifier
 
 This repository contains a project for classifying images of dogs using a pre-trained Convolutional Neural Network (CNN). Built as part of Udacity's **AI Programming with Python** course, this project demonstrates the use of CNN architectures, such as VGG, in identifying specific dog breeds from images. 
 
